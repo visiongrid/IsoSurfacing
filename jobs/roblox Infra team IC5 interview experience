@@ -1,0 +1,50 @@
+https://www.teamblind.com/post/Roblox-IC5-interview-experience-HioxfHfb
+
+Applied online for IC5 Infra team. They said they like my resume and waived the phone screen 
+(I have cleared Karat for other companies though).
+
+They set up a four round virtual onsite (1 coding, 2 system design and 1 behavioral, 45 min each). 
+All the interviewers were very nice, seemed to know their stuff.
+
+The recruiter has no idea about the what she is doing, and experience with her was bad throughout the process. 
+She was supposed to join the onsite meeting after my technical interview, but she forgot and a no-show.
+
+I thought I crushed the coding round (medium+ leetcode); even implemented the follow up and executed test cases. 
+I was happy coming out of two system design rounds as well (Roblox related open ended system design 
+focussing on one online system, another scaling performance of a ML system which involved me 
+proposing a ETL/offline process to extract features). One of the sys design went past 1 hr . 
+The behavioral was like any other behavioral/STAR interview. I know these interviews are subjective, 
+and I am not sure where did I screw up. Not getting any feedback does not help either.
+
+Gutted; to miss out on the opportunity. But time to move on.
+
+YOE: 10+
+TC: 400+ (Base 200+, 15% cash bonus, rest on paper rsu; which is on perpetual nosedive atm)
+
+
+
+Pure Storage south_bay
+Probably System Design. Remember, to grasp the true intricacies of System Design, you need to spend years 
+as an architect through various architectures and products.
+
+Very few interviewers actually have that. At least the good ones keep an open mind. But the bad ones have 
+only been a part of one or two systems, and you have to guess their solution and their pitfalls.
+
+System Design is the most random one of them all because it all depends on how competent the interviewer is. 
+And about half the time, they are just average programmers who take their limited experience and thinks it applies to all.
+
+    LivePerson siQA48
+    OP
+    right. However, I am in a self blaming mode :) I think I am not managing my time well, not understanding 
+    where does the interviewer wants me to focus on in a system design interview (API design, Data design, Microservices, Scaling). 
+    I have found it difficult to balance it without the interviewer explicitly stating where I need to focus.
+    It is true that I wasn't stuck at a solution, I think I am not explaining different approaches 
+    and their comparisons (I am straight away proposing a solution, and only answering the why if asked).
+
+    May be they feel I do not have the depth, but it is true that I do not have the depth in many of the topics 
+    which I haven't worked on before. For example, I never had to design a solution where cross DC sharding was a necessity; 
+    if you ask me to design instagram, how will I have the depth?
+    Anyways, time to move on I guess.
+
+New jyPK87
+It's okay. You win some, lose some. Best to learn and move on. Always another opportunity awaits. Good luck. 
